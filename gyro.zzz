@@ -1,0 +1,10 @@
+pkgs:
+  matches:
+    version: 0.1.0
+    description: A zig library which determines if an integer matches a comptime known bit pattern.
+    license: MIT
+    source_url: "https://github.com/devins2518/matches"
+    root: src/main.zig
+    files:
+      README.md
+      LICENSE
